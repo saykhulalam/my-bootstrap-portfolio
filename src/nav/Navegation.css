@@ -1,0 +1,55 @@
+.navegation .navbtn a{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1px;
+    width: 153px;
+    height: 56px;
+    background-color: #000000;
+    border-radius: 5px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid transparent;
+}
+.navegation .navbtn a:hover{
+    background-color: transparent;
+    color: #000000;
+    border: 1px solid #000000;
+    font-weight: 600;
+    transition: .4s;
+}
+.navegation .navbtn a .navicon{
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 8px;
+}
+nav .li{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #000000;
+    margin-right: 25px;
+    position: relative;
+}
+nav .li::before{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+}
+nav .li:hover::before{
+    width: 60%;
+    transition: .4s;
+    transform: translateX(-50%);
+} 
+.navegation h2{
+    font-size: 35px !important;
+    font-family: "Trade Winds", system-ui;
+}

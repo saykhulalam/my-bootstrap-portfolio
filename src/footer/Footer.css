@@ -1,0 +1,25 @@
+#footer .main-f h2{
+    font-size: 35px !important;
+    font-family: "Trade Winds", system-ui;
+    color: #ffffff;
+    padding-top: 10px;
+}
+#footer .main-f .copy h3{
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 20px;
+    text-align: end;
+    margin-bottom: 12px;
+}
+#footer .main-f .copy h4{
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 20px;
+    text-align: end;
+}
+#footer{
+    background-color: #000000;
+    padding: 24px 0;
+}

@@ -1,0 +1,19 @@
+
+@media (min-width: 320px) and (max-width: 575px){
+    #exp .main-box p {
+        line-height: 35px;
+        text-align: center;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    #exp .main-box p {
+        line-height: 35px;
+        text-align: center;
+    }
+}
+@media (min-width: 768px) and (max-width: 992px){
+    #exp .main-box p {
+        line-height: 35px;
+        text-align: center;
+    }
+}

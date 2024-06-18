@@ -1,0 +1,83 @@
+#testimonial .taitel h3{
+    font-size: 48px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 56px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+#testimonial .taitel h3 span{
+    font-size: 48px;
+    font-weight: 800;
+    color: #000000;
+    line-height: 56px;
+    letter-spacing: 1px;
+}
+#testimonial .main{
+    width: 370px;
+    height: 398px;
+    box-shadow: 3px 3px 12px #888888;
+    padding: 40px;
+    border-radius: 20px;
+}
+#testimonial .main:hover{
+    background-color: #000000;
+    transition: .4s;
+}
+#testimonial .main:hover p{
+    color: #ffffffff;
+    transition: .4s;
+}
+#testimonial .main:hover h4{
+    color: #ffffffff;
+    transition: .4s;
+}
+#testimonial .main:hover h5{
+    color: #ffffffff;
+    transition: .4s;
+}
+#testimonial .main:hover .shep{
+    background-color: #ffffffff;
+    transition: .4s;
+}
+#testimonial .main p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: #404040;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#testimonial .main .shep{
+    width: 120px;
+    height: 2px;
+    background-color: #000000;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+#testimonial .main h4{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #404040;
+    text-align: center;
+}
+#testimonial .main h5{
+    color: #71717A;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 24px;
+}
+#testimonial .main .testimg{
+    margin-left: 100px;
+}
+#testimonial{
+    padding: 60px;
+}

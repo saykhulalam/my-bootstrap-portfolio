@@ -1,0 +1,79 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  #testimonial .main {
+    margin-left: -61px;
+    margin-bottom: 35px;
+  }
+  #testimonial .taitel h3 {
+    margin-left: -61px;
+  }
+  #testimonial {
+    padding-bottom: 0px;
+  }
+  #testimonial .main {
+    width: 293px;
+    height: 413px;
+    margin-left: -34px;
+}
+  #testimonial .main .testimg {
+    margin-left: 59px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  #testimonial .main {
+    margin-left: -61px;
+    margin-bottom: 35px;
+  }
+  #testimonial .taitel h3 {
+    margin-left: -61px;
+  }
+  #testimonial {
+    padding-bottom: 0px;
+  }
+  #testimonial .main {
+    width: 381px;
+    height: 406px;
+    margin-left: 22px;
+}
+#testimonial .main .testimg {
+  margin-left: 100px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #testimonial .taitel h3 {
+    margin-left: -61px;
+  }
+  #testimonial {
+    padding-bottom: 0px;
+  }
+  #testimonial .main {
+    width: 294px;
+    height: 406px;
+    margin-left: 2px;
+}
+#testimonial .main .testimg {
+  margin-left: 100px;
+}
+#testimonial .last{
+  margin-top: 20px;
+}
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  #testimonial .taitel h3 {
+    margin-left: -61px;
+  }
+  #testimonial {
+    padding-bottom: 0px;
+  }
+  #testimonial .main {
+    width: 267px;
+    height: 439px;
+    margin-left: -1px;
+}
+#testimonial .main .testimg {
+  margin-left: 48px;
+}
+#testimonial .last{
+  margin-top: 20px;
+}
+}
+

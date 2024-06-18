@@ -1,0 +1,58 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  #skills .main {
+    margin-top: 20px;
+    margin-left: 33px;
+}
+  #skills .socend {
+    margin-top: 4px;
+  }
+  #skills .frist {
+    margin-top: 25px;
+  }
+  #skills .taitel h2 {
+    margin-bottom: -1px;
+  }
+}
+@media (min-width:567px) and (max-width:755px){
+  #skills .main {
+    margin-left: 113px;
+}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  #skills .main {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 116px;
+}
+  #skills .socend {
+    margin-top: 4px;
+  }
+  #skills .frist {
+    margin-top: 25px;
+  }
+  #skills .taitel h2 {
+    margin-bottom: -1px;
+  }
+  #contact .contact-i {
+    margin-bottom: 39px;
+}
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  #skills .main {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 49px;
+}
+  #skills .socend {
+    margin-top: 4px;
+  }
+  #skills .frist {
+    margin-top: 25px;
+  }
+  #skills .taitel h2 {
+    margin-bottom: -1px;
+  }
+  #contact .contact-i {
+    margin-bottom: 39px;
+}
+}

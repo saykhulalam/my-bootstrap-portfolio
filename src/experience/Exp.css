@@ -1,0 +1,30 @@
+#exp .taitel h3{
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#exp .taitel h3 span{
+    font-size: 48px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+#exp{
+    background-color: #000000;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#exp .main-box p{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 55px;
+    border: 2px solid #ffffff;
+    padding: 20px;
+}
+#exp .main-box{
+    background-color: #283544;
+}
